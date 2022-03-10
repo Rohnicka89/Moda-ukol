@@ -1,4 +1,5 @@
 import React from 'react';
+import './accessories.css';
 
 import Product from '../Product/Product.jsx';
 
